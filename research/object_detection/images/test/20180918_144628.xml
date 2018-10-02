@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Strongbow golden apple botella 330ml</folder>
+	<filename>20180918_144628.jpg</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Strongbow golden apple botella 330ml\20180918_144628.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SGB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1126</xmin>
+			<ymin>1438</ymin>
+			<xmax>4016</xmax>
+			<ymax>2138</ymax>
+		</bndbox>
+	</object>
+</annotation>

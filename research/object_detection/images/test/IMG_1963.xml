@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>XX lager lata 355ml</folder>
+	<filename>IMG_1963.JPG</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\XX lager lata 355ml\IMG_1963.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DEL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2248</xmin>
+			<ymin>1115</ymin>
+			<xmax>2818</xmax>
+			<ymax>1385</ymax>
+		</bndbox>
+	</object>
+</annotation>

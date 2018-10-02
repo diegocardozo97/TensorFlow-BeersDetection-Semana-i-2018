@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tecate Light Botella</folder>
+	<filename>IMG_5912.JPG</filename>
+	<path>C:\Users\pev\Documents\TEC\5to semestre\Semanai\tensorflow\raccoon_dataset\models\images\Tecate Light Botella\IMG_5912.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TLB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>900</ymin>
+			<xmax>2977</xmax>
+			<ymax>1715</ymax>
+		</bndbox>
+	</object>
+</annotation>

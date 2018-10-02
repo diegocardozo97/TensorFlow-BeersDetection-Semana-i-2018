@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bohemia pilsner botella 355ml</folder>
+	<filename>IMG_1387.JPG</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Bohemia pilsner botella 355ml\IMG_1387.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BPB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1839</xmin>
+			<ymin>1385</ymin>
+			<xmax>2187</xmax>
+			<ymax>1833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BPB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2878</xmin>
+			<ymin>1433</ymin>
+			<xmax>3361</xmax>
+			<ymax>2072</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tecate light lata 355ml</folder>
+	<filename>IMG_1669.JPG</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Tecate light lata 355ml\IMG_1669.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TLL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>1224</ymin>
+			<xmax>3135</xmax>
+			<ymax>2142</ymax>
+		</bndbox>
+	</object>
+</annotation>

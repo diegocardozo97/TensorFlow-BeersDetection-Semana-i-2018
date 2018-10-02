@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Strongbow red berries botella 330ml</folder>
+	<filename>IMG_1479.JPG</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Strongbow red berries botella 330ml\IMG_1479.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SRB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>1263</ymin>
+			<xmax>1887</xmax>
+			<ymax>1806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SRB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2426</xmin>
+			<ymin>1255</ymin>
+			<xmax>3118</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+</annotation>

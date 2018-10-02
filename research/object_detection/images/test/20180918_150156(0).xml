@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Indio botella 1200ml</folder>
+	<filename>20180918_150156(0).jpg</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Indio botella 1200ml\20180918_150156(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>541</xmin>
+			<ymin>1588</ymin>
+			<xmax>4051</xmax>
+			<ymax>2778</ymax>
+		</bndbox>
+	</object>
+</annotation>

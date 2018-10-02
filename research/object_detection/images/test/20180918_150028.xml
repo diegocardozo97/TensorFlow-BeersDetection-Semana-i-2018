@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Heineken light x6 botella 355ml</folder>
+	<filename>20180918_150028.jpg</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Heineken light x6 botella 355ml\20180918_150028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HLB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>716</xmin>
+			<ymin>738</ymin>
+			<xmax>3381</xmax>
+			<ymax>2933</ymax>
+		</bndbox>
+	</object>
+</annotation>

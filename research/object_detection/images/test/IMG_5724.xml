@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Miller Lata 946 ml</folder>
+	<filename>IMG_5724.JPG</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Miller Lata 946 ml\IMG_5724.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>977</ymin>
+			<xmax>2508</xmax>
+			<ymax>1727</ymax>
+		</bndbox>
+	</object>
+</annotation>

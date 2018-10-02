@@ -1,0 +1,25 @@
+<annotation><folder>annotations</folder> 
+<filename>IMG_1287.JPG</filename> 
+<path>./annotations/IMG_1287/IMG_1287.JPG</path> 
+<source> 
+<database>Unknown</database> 
+</source> 
+<size> 
+<width>4032</width> 
+<height>3024</height> 
+<depth>3</depth> 
+</size> 
+	<segmented>0</segmented> 
+<object> 
+	<name>IL</name> 
+	<pose>Unspecified</pose> 
+<truncated>0</truncated> 
+<difficult>0</difficult> 
+<bndbox> 
+<xmin>997</xmin> 
+<ymin>1365</ymin> 
+<xmax>3170</xmax> 
+<ymax>2434</ymax> 
+</bndbox> 
+</object> 
+</annotation> 

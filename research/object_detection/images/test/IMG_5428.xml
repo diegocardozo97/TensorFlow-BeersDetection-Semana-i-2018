@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Heineken botella 355ml</folder>
+	<filename>IMG_5428.JPG</filename>
+	<path>C:\Users\Miguel Morales\Documents\5_Semestre\Semana_i\Directorio\Heineken botella 355ml\IMG_5428.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1883</xmin>
+			<ymin>1231</ymin>
+			<xmax>2951</xmax>
+			<ymax>1577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>1234</ymin>
+			<xmax>1301</xmax>
+			<ymax>1374</ymax>
+		</bndbox>
+	</object>
+</annotation>
