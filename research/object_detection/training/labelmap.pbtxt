@@ -1,0 +1,64 @@
+item {
+  id: 1
+  name: 'BPB'
+}
+
+item {
+  id: 2
+  name: 'CBB'
+}
+
+item {
+  id: 3
+  name: 'HB'
+}
+
+item {
+  id: 4
+  name: 'HLB'
+}
+
+item {
+  id: 5
+  name: 'IB'
+}
+
+item {
+  id: 6
+  name: 'IL'
+}
+
+item {
+  id: 7
+  name: 'ML'
+}
+
+item {
+  id: 8
+  name: 'SCL'
+}
+
+item {
+  id: 9
+  name: 'SGB'
+}
+
+item {
+  id: 10
+  name: 'SRB'
+}
+
+item {
+  id: 11
+  name: 'TLB'
+}
+
+item {
+  id: 12
+  name: 'TLL'
+}
+
+item {
+  id: 13
+  name: 'DEL'
+}
